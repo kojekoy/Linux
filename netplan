@@ -1,4 +1,5 @@
-#Static configuration
+# Static configuration
+# vi /etc/netplan/01-netcfg.yaml
 network:
   version: 2
   ethernets:
